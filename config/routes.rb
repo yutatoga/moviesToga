@@ -1,6 +1,4 @@
 MoviesToga::Application.routes.draw do
-  resources :comments
-
   resources :movies
 
   # The priority is based upon order of creation: first created -> highest priority.
